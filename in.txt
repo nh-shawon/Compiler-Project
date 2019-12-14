@@ -1,0 +1,46 @@
+!-header section start
+@xyz.h
+@abc.h
+!-header section end
+
+!--
+This a Multi Line Comment
+Line 2
+--!
+
+main function()
+{
+	int c = 0;
+	int g = 6 ;
+	int d = 12;
+	d = c * 10 + g * 11 + 20 ;
+	if : 0>1 
+	{
+		d = d + 11 ;
+	}
+	else {
+		c = c + 27 ;
+	}
+	
+	switch :g
+	{	
+		case 10 :
+			c = c + 5 ;
+		case 6  :
+			c = c + 7 ;
+		case 9  :
+			c = c + 10 ;
+		default :
+			c = c + 4 ;
+	}
+	int j = 10 ;
+	repeat (j>=7)
+	{
+
+		j = j - 1 ;
+
+	}
+	square(10);
+	int x = 2^5;
+	int w = 10%3;
+}

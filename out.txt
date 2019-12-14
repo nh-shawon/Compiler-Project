@@ -1,0 +1,16 @@
+Value of the variable: 0	
+Value of the variable: 6	
+Value of the variable: 12	
+Value of the variable: 86	
+Value of the variable: 97	
+Value of the variable: 27	
+value of expression in ELSE: 27
+result of evaluation is :  34
+Value of the variable: 10	
+result is : 9
+result is : 8
+result is : 7
+result is : 6
+Value of square(10) is 100
+Value of the variable: 32	
+Value of the variable: 1	
